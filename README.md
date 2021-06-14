@@ -7,10 +7,10 @@
   
   ## modificações feitas :
   
-  *interatividade na pagina 
-  *criação de pagina de login
-  *interatividade na parte de continuar a conta, remover conta e no dois templates em baixe o aplicativo.
-  *aplicação de dark-mode
+  * interatividade na pagina 
+  * criação de pagina de login
+  * interatividade na parte de continuar a conta, remover conta e no dois templates em baixe o aplicativo.
+  * aplicação de dark-mode
   
   ## tecnologias usadas:
   
