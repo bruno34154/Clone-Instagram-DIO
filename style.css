@@ -73,7 +73,7 @@ input[type = "checkbox"]:before{
 
 }
 input:checked[type = "checkbox"]:before{
-    left: 40px;
+    left: 30px;
 }
 
 
@@ -144,6 +144,15 @@ input:checked[type = "checkbox"]:before{
     color: #0000ff;
     text-align: center;
     margin-left: 60px;
+}
+.toggleArea{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+
 }
 #formulario{
     margin-top: 20px;
@@ -254,6 +263,7 @@ input:checked[type = "checkbox"]:before{
     .group {
         border: 1px solid transparent;
     }
-    
+
+  
 
 }
